@@ -1,0 +1,26 @@
+# Core data processing
+pandas>=2.0
+tqdm>=4.66
+requests>=2.31
+
+# NLP utilities
+nltk>=3.8
+spacy>=3.7
+sacrebleu>=2.4
+lingua-language-detector>=2.0
+
+# Model and evaluation stack
+torch==2.6.0
+torchvision==0.21.0
+transformers==4.48.2
+datasets>=2.18
+accelerate>=0.30
+peft==0.13.2
+backoff==2.2.1
+sentencepiece>=0.1.99
+protobuf>=4.25
+unbabel-comet>=2.2
+
+# APIs
+openai>=1.0
+google-cloud-translate>=3.15
