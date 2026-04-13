@@ -15,9 +15,9 @@ It provides:
 
 The paper studies how **verbal multiword expressions (VMWEs)** affect machine translation, with a focus on:
 
-- **VID** — verbal idioms
-- **VPC** — verb-particle constructions
-- **LVC** — light verb constructions
+- **VID** — verbal idioms, e.g. *spill the beans*
+- **VPC** — verb-particle constructions, e.g. *give up*
+- **LVC** — light verb constructions, e.g. *take a walk*
 
 **Main finding:** VMWEs consistently reduce translation quality, and a substantial portion of that degradation is attributable to the VMWE itself rather than to overall sentence difficulty.
 
